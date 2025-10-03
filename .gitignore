@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.env/
+.venv/
+venv/
+ENV/
+
+# JetBrains IDE (PyCharm, IntelliJ)
+.idea/
+yolo11n.pt
+MapImages
+# OS files
+.DS_Store
+Thumbs.db
