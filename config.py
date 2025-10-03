@@ -20,13 +20,13 @@ skip_frame = 30
 # --- File and Model Paths ---
 
 # Path to the input video file that will be processed.
-video_path = r'C:\Users\Bedirhan\Desktop\as3\Internship\SampleInputOutputs\ekran.mp4'
+video_path = r'SampleInputOutputs\ekran.mp4'
 # Path to the trained YOLOv12 model weights file (.pt).
-yolov12_path = r'C:\Users\Bedirhan\Desktop\as3\Internship\Models\best.pt'
+yolov12_path = r'Models\best.pt'
 # Path where the final annotated output video will be saved.
-output_video_path = r'C:\Users\Bedirhan\Desktop\as3\Internship\SampleInputOutputs\ekran1.mp4'
+output_video_path = r'SampleInputOutputs\ekran1.mp4'
 # Path where the generated PDF summary report will be saved.
-pdf_report_path = r'C:\Users\Bedirhan\Desktop\as3\Internship\SampleInputOutputs\report.pdf'
+pdf_report_path = r'SampleInputOutputs\report.pdf'
 # Path to the WebP file containing map icons, likely used for training data generation.
 webp_file_path = r'SampleInputOutputs\MapIconsNew.webp'
 # Path to save the best model weights during a training session.
